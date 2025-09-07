@@ -7,7 +7,7 @@ Our results show that BEiT achieves **strong generalization** on medical imaging
 
 ---
 
-## 🚀 Features
+## 🚀 Approach
 - Fine-tuning **BEiT** on medical datasets.
 - Comparison against supervised baselines (ResNet-18, ResNet-50, AutoML frameworks).
 - Evaluation with standard metrics (**AUC**, **Accuracy**).
